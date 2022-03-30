@@ -1,0 +1,34 @@
+@import "variables.scss";
+
+#navbarNav{
+    display: flex!important;
+    flex-basis: auto;
+    justify-content: flex-end;
+    margin-right: 10px;
+}
+main{
+    background-image: url(../IMG/FondoMain.jpg);
+}
+.card-img-top{
+    height: 250px;
+}
+
+.card{
+    border-color: black;
+    margin-top: 40px;
+}
+
+footer{
+    margin-top: 0;
+    height: 100%;
+    width: 100%;
+    background-color: rgb(136, 37, 37);
+}
+#Footer1{
+    margin-top: 0;
+}
+
+.Redes{
+    margin-left: 55px;
+    height: 60px;
+}
